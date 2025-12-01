@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Worlders",
+  "base_artist": "Leo/need、MORE MORE JUMP!、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、Nightcord at 25:00、Hatsune Miku、Kagamine Rin、Kagamine Len、Megurine Luka、MEIKO、KAITO",
+  "createdAt": "2025-12-01T14:02:08.365258Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Worlders",
+      "artist": "Leo/need",
+      "has_synced": false,
+      "path": "select/01_Worlders_Leo_need.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Worlders (BLUE BACK Ver.)",
+      "artist": "Jin",
+      "has_synced": false,
+      "path": "select/02_Worlders_(BLUE_BACK_Ver.)_Jin.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Worlders",
+      "artist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, ワンダーランズ×ショウタイム, 25 時、ナイトコードで。 & バーチャル・シンガー",
+      "has_synced": false,
+      "path": "select/pl_01_Worlders_Leo_need,_MORE_MORE_JUMP!,_Vivid_BAD_SQUAD,_ワンダーランズ×ショウタイム,_25_時、ナイトコードで。_&_バーチャ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "Worlders",
+      "artist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, ワンダーランズ×ショウタイム, 25 時、ナイトコードで。 & バーチャル・シンガー",
+      "has_synced": false,
+      "path": "select/pl_02_Worlders_Leo_need,_MORE_MORE_JUMP!,_Vivid_BAD_SQUAD,_ワンダーランズ×ショウタイム,_25_時、ナイトコードで。_&_バーチャ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "Worlders",
+      "artist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, ワンダーランズ×ショウタイム, 25 時、ナイトコードで。 & バーチャル・シンガー",
+      "has_synced": false,
+      "path": "select/pl_03_Worlders_Leo_need,_MORE_MORE_JUMP!,_Vivid_BAD_SQUAD,_ワンダーランズ×ショウタイム,_25_時、ナイトコードで。_&_バーチャ.txt"
+    },
+    {
+      "id": "petitlyrics_4",
+      "source": "petitlyrics",
+      "title": "Worlders (BLUE BACK Ver.)",
+      "artist": "Leo/need, MORE MORE JUMP!, Vivid BAD SQUAD, ワンダーランズ×ショウタイム, 25 時、ナイトコードで。 & バーチャル・シンガー",
+      "has_synced": false,
+      "path": "select/pl_04_Worlders_(BLUE_BACK_Ver.)_Leo_need,_MORE_MORE_JUMP!,_Vivid_BAD_SQUAD,_ワンダーランズ×ショウタイム,_25_時、ナイトコードで。_&_バーチャ.txt"
+    }
+  ]
+}
