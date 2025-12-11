@@ -1,4 +1,4 @@
-# Leo/need、MORE MORE JUMP!、Vivid BAD SQUAD、ワンダーランズ×ショウタイム、Nightcord at 25:00、Hatsune Miku、Kagamine Rin、Kagamine Len、Megurine Luka、MEIKO、KAITO – Worlders
+# Leo/need – Worlders
 
 > **歌詞登録ステータス：プレーン歌詞のみ**
 
